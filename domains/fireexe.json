@@ -6,6 +6,6 @@
     "email": "imguyexeboii@gmail.com"
   },
   "records": {
-    "CNAME": "fireemerald1.github.io"
+       "A": ["76.76.21.21"]
   }
 }
